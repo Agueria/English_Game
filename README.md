@@ -1,0 +1,2 @@
+# English_Game
+ Flashy is an intuitive and easy-to-use flashcard application designed to help users learn French. Utilizing a simple, clean interface built with Python's Tkinter library, the app offers an engaging way to memorize and recall words. Flashy flips cards automatically to reveal the English translation of displayed French words, enhancing the learning experience. Your learning progress is saved locally, enabling you to pick up right where you left off.
