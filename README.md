@@ -1,4 +1,4 @@
-# Flashy - Flashcard App
+# EnglishGame - EnglishCardGame App
 
 ## Introduction
 
