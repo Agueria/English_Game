@@ -21,7 +21,7 @@ Flashy is a simple flashcard app built with Python and Tkinter. The application 
 
 1. Clone this repository
     ```shell
-    git clone https://github.com/your-username/Flashy.git
+    git clone https://github.com/Agueria/English_Game.git
     ```
 2. Install Pandas if you haven't
     ```shell
